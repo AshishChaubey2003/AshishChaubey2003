@@ -1,17 +1,23 @@
-<h1 align="center">Hi, I'm Ashish Kumar Chaubey</h1>
+<h1 align="center">Ashish Kumar Chaubey</h1>
 
 <p align="center">
-  <strong>Python Backend Developer &nbsp;|&nbsp; Full-Stack Development &nbsp;|&nbsp; AI Engineering &amp; Evaluation</strong>
+  <strong>Python Backend Developer &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; AI Engineering &amp; Evaluation</strong>
 </p>
 
 <p align="center">
-  B.Tech Computer Science (2025) · Bengaluru, India · Open to Python Backend / Full-Stack / Junior AI Engineer roles · Immediate joiner
+  B.Tech Computer Science (2025) · Bengaluru, India · Open to Python Backend / Full-Stack / Junior AI Engineer roles
+</p>
+
+<p align="center">
+  <em>I build reliable backend services, full-stack applications, and AI-powered systems.</em><br>
+  <em>Focused on secure APIs, data consistency, and measurable AI solutions.</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashishchaubey2dec/"><img src="https://img.shields.io/badge/LinkedIn-ashishchaubey2dec-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ashish.chaubey.dev@gmail.com"><img src="https://img.shields.io/badge/Email-ashish.chaubey.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/AshishChaubey2003?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories"></a>
+  <a href="https://github.com/AshishChaubey2003"><img src="https://img.shields.io/badge/GitHub-AshishChaubey2003-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://leetcode.com/u/sashishchaubey1234/"><img src="https://img.shields.io/badge/LeetCode-sashishchaubey1234-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </p>
 
 <p align="center">
@@ -25,11 +31,9 @@
 
 ## About Me
 
-I build backend services and the AI features that run on top of them. My focus is Python backend and full-stack development — designing REST APIs with Django REST Framework and FastAPI, modelling PostgreSQL data that stays consistent under load, and building the frontend that puts it to use.
+I'm a Python backend developer who builds full-stack applications and AI-powered systems. I design REST APIs with Django REST Framework and FastAPI, model relational data in PostgreSQL that stays consistent under concurrent writes, and build React and TypeScript frontends on top.
 
-What drives my work is correctness and reliability: making sure concurrent operations can't corrupt data, that access is enforced on the server rather than the client, and that money and state move safely. On the AI side, I build LLM applications grounded in real application data, with tool calls the backend controls and evaluation that measures whether they work instead of assuming it.
-
-I'm currently exploring MCP for standardized tool integration, and I'm looking for backend, full-stack, or junior AI engineering roles where I can own services end to end.
+My focus is reliable software: secure APIs, correct database behavior, and clear error handling. On the AI side I build RAG applications grounded in real data, with backend-controlled tool calling and evaluation that measures how well they perform. I enjoy picking up new engineering tools, and I'm currently exploring MCP for standardized AI tool integration.
 
 ---
 
@@ -37,7 +41,7 @@ I'm currently exploring MCP for standardized tool integration, and I'm looking f
 
 Technologies I've used in my projects, grouped by area. A capability I'm still learning is marked *(exploring)*.
 
-**Languages**
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -58,7 +62,7 @@ Technologies I've used in my projects, grouped by area. A capability I'm still l
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI_%2F_Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-**Frontend Engineering**
+**Frontend Development**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -67,7 +71,6 @@ Technologies I've used in my projects, grouped by area. A capability I'm still l
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **Databases and Infrastructure**
 
@@ -80,11 +83,10 @@ Technologies I've used in my projects, grouped by area. A capability I'm still l
 ![Neon](https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logo=neon&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**AI and LLM Applications**
+**Generative AI and LLM Applications**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
@@ -112,30 +114,30 @@ Technologies I've used in my projects, grouped by area. A capability I'm still l
 
 **Tool Integration**
 
-![Tool Calling](https://img.shields.io/badge/LLM_Tool_Calling-5A3E85?style=flat-square)
 ![API Integration](https://img.shields.io/badge/REST_%2F_API_Integration-5A3E85?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/LLM_Tool_Calling-5A3E85?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP_Model_Context_Protocol_%28exploring%29-9E9E9E?style=flat-square)
 
 ---
 
 ## Engineering Highlights
 
-How my skills map to real work. Every row names a project you can open from my repositories.
+How my skills map to real work. Each row links to the project where the implementation lives.
 
-| Engineering Area | Skills / Technologies | Where I Used Them | What I Built or Solved |
+| Engineering Area | Technologies | Where I Used Them | What I Built or Solved |
 |---|---|---|---|
-| **Backend APIs** | DRF, FastAPI, Pydantic, OpenAPI | TravelX, FreshPlate, PolicyDesk AI | Versioned REST APIs with filtering, pagination and scoped rate limiting; FastAPI schemas that reject unknown fields; auto-generated Swagger docs |
-| **Auth & authorization** | JWT (SimpleJWT), bcrypt, RBAC, email OTP | FreshPlate, TravelX, PolicyDesk AI | Refresh-token rotation with blacklisting, role-based permissions and hashed email-OTP; identity read from the token so users can't reach data that isn't theirs |
-| **Database & transactions** | PostgreSQL, SQLAlchemy, Alembic, state machines | TravelX, FreshPlate, Voice Sales Agent | Schemas with explicit status state machines and multi-tenant keys; `select_related`/`Prefetch` and indexes to remove N+1 queries; Alembic migrations |
-| **Concurrency & idempotency** | `select_for_update`, atomic transactions, idempotency keys | TravelX | Row-level locking, request-fingerprint idempotency keys and price snapshots so a booking can't double-book or double-charge on retry |
-| **Payments & webhook security** | Razorpay, HMAC-SHA256 | TravelX | Order / verify / refund flow with webhook signatures verified by HMAC-SHA256 before any payment is trusted |
-| **Full-stack integration** | React, TypeScript, Vite, Tailwind, Leaflet | TravelX, TravelX v2, FreshPlate | React + Leaflet booking UI and a vanilla-JS client with output escaping; a TypeScript frontend typed directly from the backend's OpenAPI schema |
-| **RAG & retrieval** | pgvector, FAISS, BM25, RRF, reranking | Voice Sales Agent, Polyglot Code Reviewer, PolicyDesk AI | Hybrid vector + keyword search merged with Reciprocal Rank Fusion and a distance gate that drops weak matches, instead of trusting the top vector hit |
-| **LLM outputs & tool calling** | Pydantic, JSON mode, tool calling | Polyglot Code Reviewer, Voice Sales Agent, PolicyDesk AI | Structured outputs with a JSON-mode fallback on validation failure; tool calls the backend validates and executes, with consent gating and JWT-scoped identity |
-| **AI evaluation & benchmarking** | Precision/Recall/F1, labelled fixtures, latency metrics | Polyglot Code Reviewer, Voice Sales Agent | P/R/F1 over a labelled dataset and a retrieval benchmark (vector vs hybrid vs reranked); per-turn latency recorded and reported as p50/p95 |
-| **Automated testing** | pytest, pytest-django, pytest-asyncio | TravelX, Polyglot Code Reviewer, Voice Sales Agent | Test suites in the hundreds, with fakes for LLMs and embeddings so they run offline — regression safety before anything ships |
-| **Observability & deployment** | Docker Compose, Prometheus, Sentry, Render, Vercel, Neon | TravelX, FreshPlate, Polyglot Code Reviewer | Structured JSON logs with request IDs, Prometheus metrics and health endpoints; containerized services deployed with Neon PostgreSQL |
-| **Tool integration (MCP)** | Model Context Protocol | *Learning* | Exploring MCP for standardized LLM tool integration — a current focus, not yet shipped in a project |
+| **Backend APIs & validation** | DRF, FastAPI, Pydantic, OpenAPI | [TravelX](https://github.com/AshishChaubey2003/TravelX), [FreshPlate](https://github.com/AshishChaubey2003/Freshplate), [PolicyDesk AI](https://github.com/AshishChaubey2003/Policydesk-Ai) | Versioned REST APIs with filtering, pagination and scoped rate limiting; FastAPI schemas that reject unknown fields; auto-generated Swagger docs |
+| **Auth & authorization** | JWT (SimpleJWT), bcrypt, RBAC, email OTP | [FreshPlate](https://github.com/AshishChaubey2003/Freshplate), [TravelX](https://github.com/AshishChaubey2003/TravelX), [PolicyDesk AI](https://github.com/AshishChaubey2003/Policydesk-Ai) | Refresh-token rotation with blacklisting, role-based permissions and hashed email-OTP; identity read from the token so users can't reach data that isn't theirs |
+| **Database & transactions** | PostgreSQL, SQLAlchemy, Alembic | [TravelX](https://github.com/AshishChaubey2003/TravelX), [FreshPlate](https://github.com/AshishChaubey2003/Freshplate), [Voice Sales Agent](https://github.com/AshishChaubey2003/Voice-sales-agent) | Schemas with explicit status state machines and multi-tenant keys; `select_related`/`Prefetch` and indexes to remove N+1 queries; Alembic migrations |
+| **Concurrency & idempotency** | `select_for_update`, atomic transactions, idempotency keys | [TravelX](https://github.com/AshishChaubey2003/TravelX) | Row-level locking, request-fingerprint idempotency keys and price snapshots so a booking can't double-book or double-charge on retry |
+| **Payments & webhook security** | Razorpay, HMAC-SHA256 | [TravelX](https://github.com/AshishChaubey2003/TravelX) | Order / verify / refund flow with webhook signatures verified by HMAC-SHA256 before any payment is trusted |
+| **Full-stack integration** | React, TypeScript, Tailwind, Leaflet | [TravelX](https://github.com/AshishChaubey2003/TravelX), [FreshPlate](https://github.com/AshishChaubey2003/Freshplate), [Gluzo AI](https://github.com/AshishChaubey2003/gluzo-ai) | A React + Leaflet booking UI, a vanilla-JS client with output escaping, and a React + TypeScript + Tailwind single-page app over a FastAPI backend |
+| **RAG & retrieval** | pgvector, FAISS, BM25, RRF, reranking | [Voice Sales Agent](https://github.com/AshishChaubey2003/Voice-sales-agent), [Polyglot Code Reviewer](https://github.com/AshishChaubey2003/polyglot-code-review-agent), [PolicyDesk AI](https://github.com/AshishChaubey2003/Policydesk-Ai) | Hybrid vector + keyword search merged with Reciprocal Rank Fusion and a distance gate that drops weak matches, instead of trusting the top vector hit |
+| **LLM outputs & tool calling** | Pydantic, JSON mode, tool calling | [Polyglot Code Reviewer](https://github.com/AshishChaubey2003/polyglot-code-review-agent), [Voice Sales Agent](https://github.com/AshishChaubey2003/Voice-sales-agent), [PolicyDesk AI](https://github.com/AshishChaubey2003/Policydesk-Ai) | Structured outputs with a JSON-mode fallback on validation failure; tool calls the backend validates and executes, with consent gating and JWT-scoped identity |
+| **AI evaluation & testing** | Precision/Recall/F1, labelled fixtures, latency metrics, pytest | [Polyglot Code Reviewer](https://github.com/AshishChaubey2003/polyglot-code-review-agent), [Voice Sales Agent](https://github.com/AshishChaubey2003/Voice-sales-agent), [TravelX](https://github.com/AshishChaubey2003/TravelX) | P/R/F1 over a labelled dataset and a retrieval benchmark (vector vs hybrid vs reranked); per-turn latency as p50/p95; test suites in the hundreds, with fakes for LLMs and embeddings so they run offline |
+| **Observability & deployment** | Docker Compose, Prometheus, Sentry, Render, Vercel, Neon | [TravelX](https://github.com/AshishChaubey2003/TravelX), [FreshPlate](https://github.com/AshishChaubey2003/Freshplate), [Polyglot Code Reviewer](https://github.com/AshishChaubey2003/polyglot-code-review-agent) | Structured JSON logs with request IDs, Prometheus metrics and health endpoints; containerized services deployed with Neon PostgreSQL |
+
+**Currently exploring:** MCP (Model Context Protocol) for standardized LLM tool integration — a learning focus, not yet shipped in a project.
 
 ---
 
@@ -145,10 +147,10 @@ My repositories and contribution graph are shown above on my profile. A quick su
 
 <p align="center">
   <a href="https://github.com/AshishChaubey2003?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=AshishChaubey2003&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub stats" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=AshishChaubey2003&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" alt="Ashish's GitHub statistics" height="165">
   </a>
   <a href="https://github.com/AshishChaubey2003?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishChaubey2003&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishChaubey2003&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Ashish's most used languages" height="165">
   </a>
 </p>
 
@@ -161,6 +163,8 @@ My repositories and contribution graph are shown above on my profile. A quick su
 | **LinkedIn** | [linkedin.com/in/ashishchaubey2dec](https://www.linkedin.com/in/ashishchaubey2dec/) |
 | **Email** | [ashish.chaubey.dev@gmail.com](mailto:ashish.chaubey.dev@gmail.com) |
 | **GitHub** | [github.com/AshishChaubey2003](https://github.com/AshishChaubey2003) |
-| **Live demos** | [TravelX](https://travelx-frontend-zdol.onrender.com) · [FreshPlate](https://ai-fresshplate.vercel.app) · [Polyglot Code Reviewer](https://polyglot-code-reviewer.streamlit.app/) |
+| **LeetCode** | [leetcode.com/u/sashishchaubey1234](https://leetcode.com/u/sashishchaubey1234/) |
 
-<p align="center"><sub>Open to Python backend, full-stack, and junior AI engineering roles. The fastest way to see how I work is to browse the repositories above.</sub></p>
+**Live demos** — [TravelX](https://travelx-frontend-zdol.onrender.com) ([source](https://github.com/AshishChaubey2003/TravelX)) · [FreshPlate](https://ai-fresshplate.vercel.app) ([source](https://github.com/AshishChaubey2003/Freshplate)) · [Polyglot Code Reviewer](https://polyglot-code-reviewer.streamlit.app/) ([source](https://github.com/AshishChaubey2003/polyglot-code-review-agent))
+
+<p align="center"><sub>Thanks for visiting! Feel free to explore my repositories and connect with me.</sub></p>
