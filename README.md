@@ -17,7 +17,6 @@
 <p align="center">
   <a href="#about-me">About</a> ·
   <a href="#technical-skills">Skills</a> ·
-  <a href="#ai-engineering--evaluation">AI Engineering</a> ·
   <a href="#engineering-highlights">Engineering Highlights</a> ·
   <a href="#contact">Contact</a>
 </p>
@@ -26,19 +25,19 @@
 
 ## About Me
 
-I'm a Computer Science graduate focused on **Python backend development** and **AI-powered applications**. I build REST APIs with Django REST Framework and FastAPI, design PostgreSQL data models that stay correct under concurrent writes, and ship full-stack features with a React or plain-JavaScript frontend on top.
+I build backend services and the AI features that run on top of them. My focus is Python backend and full-stack development — designing REST APIs with Django REST Framework and FastAPI, modelling PostgreSQL data that stays consistent under load, and building the frontend that puts it to use.
 
-What I care about is reliability at the boundary between a database and an API: a booking flow that can't double-book, a payment webhook verified before it's trusted, an event pipeline that can be retried without side effects. On the AI side I build LLM features that are **grounded in the application's own data** and that call **tools where the backend — not the model — decides what actually happens**, and I measure how well they work with real evaluation and tests rather than trusting the output.
+What drives my work is correctness and reliability: making sure concurrent operations can't corrupt data, that access is enforced on the server rather than the client, and that money and state move safely. On the AI side, I build LLM applications grounded in real application data, with tool calls the backend controls and evaluation that measures whether they work instead of assuming it.
 
-I'm looking for backend, full-stack, or junior AI engineering roles where I can own real services end to end. My public repositories below show how I work.
+I'm currently exploring MCP for standardized tool integration, and I'm looking for backend, full-stack, or junior AI engineering roles where I can own services end to end.
 
 ---
 
 ## Technical Skills
 
-Technologies I've used in my projects. A few I'm actively exploring are marked *(exploring)*.
+Technologies I've used in my projects, grouped by area. A capability I'm still learning is marked *(exploring)*.
 
-**Programming Languages**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -50,16 +49,16 @@ Technologies I've used in my projects. A few I'm actively exploring are marked *
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-6E6E6E?style=flat-square)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=flat-square)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI_%2F_Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-**Frontend Development**
+**Frontend Engineering**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -70,7 +69,7 @@ Technologies I've used in my projects. A few I'm actively exploring are marked *
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Databases and Storage**
+**Databases and Infrastructure**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -79,85 +78,70 @@ Technologies I've used in my projects. A few I'm actively exploring are marked *
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
 ![Neon](https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logo=neon&logoColor=black)
-
-**Generative AI and LLM Applications**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_hybrid_search_%2B_RRF-5C2D91?style=flat-square)
-![Embeddings](https://img.shields.io/badge/Embeddings_%26_Vector_Search-5C2D91?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering_%26_Grounding-5C2D91?style=flat-square)
-![Pipecat](https://img.shields.io/badge/Pipecat_voice_%2F_WebRTC-2D2D2D?style=flat-square)
-
-**AI Evaluation and Benchmarking**
-
-![Precision Recall F1](https://img.shields.io/badge/Precision_%2F_Recall_%2F_F1-0B6E4F?style=flat-square)
-![Retrieval Benchmarking](https://img.shields.io/badge/Retrieval_Benchmarking-0B6E4F?style=flat-square)
-![Labelled Datasets](https://img.shields.io/badge/Labelled_Fixture_Datasets-0B6E4F?style=flat-square)
-![Regression Testing](https://img.shields.io/badge/Regression_Testing-0B6E4F?style=flat-square)
-![Latency Metrics](https://img.shields.io/badge/Latency_p50_%2F_p95-0B6E4F?style=flat-square)
-
-**AI Tool Integration**
-
-![Tool Calling](https://img.shields.io/badge/LLM_Tool_Calling-5A3E85?style=flat-square)
-![Structured Outputs](https://img.shields.io/badge/Structured_Outputs_%28Pydantic%29-5A3E85?style=flat-square)
-![Guardrails](https://img.shields.io/badge/Guardrails_%26_Input_Validation-5A3E85?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP_Model_Context_Protocol_%28exploring%29-9E9E9E?style=flat-square)
-
-**Developer Tools and Quality**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**AI and LLM Applications**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_hybrid_search_%2B_RRF-5C2D91?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings_%26_Vector_Search-5C2D91?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-5C2D91?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Pipecat](https://img.shields.io/badge/Pipecat_voice_%2F_WebRTC-2D2D2D?style=flat-square)
+![Structured Outputs](https://img.shields.io/badge/Structured_Outputs_%28Pydantic%29-5C2D91?style=flat-square)
+
+**AI Evaluation and Developer Quality**
+
+![Evaluation Harness](https://img.shields.io/badge/Evaluation_Harness-0B6E4F?style=flat-square)
+![Labelled Datasets](https://img.shields.io/badge/Labelled_Datasets-0B6E4F?style=flat-square)
+![Precision Recall F1](https://img.shields.io/badge/Precision_%2F_Recall_%2F_F1-0B6E4F?style=flat-square)
+![Retrieval Benchmarking](https://img.shields.io/badge/Retrieval_Benchmarking-0B6E4F?style=flat-square)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-0B6E4F?style=flat-square)
+![Latency Metrics](https://img.shields.io/badge/Latency_p50_%2F_p95-0B6E4F?style=flat-square)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)
 ![Bandit](https://img.shields.io/badge/Bandit-FFC107?style=flat-square)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
+**Tool Integration**
 
-## AI Engineering and Evaluation
-
-I treat an LLM feature like any other part of a backend: it has to be grounded, controlled, and measured. Across my projects I've built this out concretely:
-
-- **Backend-controlled tool calling.** The model proposes an action; the backend validates and executes it. A lead is saved only after an explicit, verified consent step, and a leave request is written only after date and balance checks pass — the tenant and user identity always come from the server session or the JWT, never from the model's arguments.
-- **Structured outputs with a safety net.** LLM responses are parsed into Pydantic models, with a JSON-mode fallback when the first structured attempt fails validation, so downstream code never receives free text where it expects a schema.
-- **Evaluation built into the project.** Precision / recall / F1 for a deterministic analyzer against a labelled fixture dataset, plus a benchmark that compares retrieval strategies (vector-only vs hybrid vs hybrid-with-reranking) so a change to the pipeline can be measured instead of guessed at.
-- **Latency measurement.** Per-turn timings (speech-to-text, LLM, text-to-speech, end-to-end) recorded on every message in the voice agent, reported as p50 / p95.
-- **Regression safety from real tests.** pytest suites with fakes standing in for LLMs and embeddings so they run offline and fast — hundreds of tests across the projects, catching breakage before it ships.
-- **Retrieval quality.** Hybrid search (vector + keyword) merged with Reciprocal Rank Fusion and a distance gate that drops weak matches, rather than returning whatever the vector index ranks first.
-
-**Currently exploring:** MCP (Model Context Protocol) for standardized tool integration — an area of focus I'm learning, not yet shipped in a project.
+![Tool Calling](https://img.shields.io/badge/LLM_Tool_Calling-5A3E85?style=flat-square)
+![API Integration](https://img.shields.io/badge/REST_%2F_API_Integration-5A3E85?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP_Model_Context_Protocol_%28exploring%29-9E9E9E?style=flat-square)
 
 ---
 
 ## Engineering Highlights
 
-What my repositories demonstrate, with where to look:
+How my skills map to real work. Every row names a project you can open from my repositories.
 
-| Area | What I've built |
-|---|---|
-| **REST API design** | Versioned DRF APIs with filtering, pagination and scoped throttling; FastAPI services with Pydantic v2 schemas that reject unknown fields; auto-generated OpenAPI / Swagger docs |
-| **Authentication & authorization** | JWT with refresh-token rotation and blacklisting; role-based permissions; email-OTP verification with hashed OTPs; bcrypt password hashing; identity taken from the token, never from request or model input |
-| **Database modeling** | PostgreSQL schemas with explicit state machines, composite foreign keys for multi-tenancy, indexes and `select_related` / `Prefetch` query tuning; Alembic migrations in the FastAPI projects |
-| **Concurrency & consistency** | `select_for_update()` inside atomic transactions, idempotency keys, price snapshots, `F()` counters, transactional outbox with idempotent consumers and dead-letter recovery |
-| **Payments** | Razorpay order / verify / refund flow with HMAC-SHA256 webhook verification |
-| **Error handling & observability** | Structured JSON logs with request IDs, Prometheus metrics, optional Sentry, health / readiness endpoints, graceful degradation when the LLM or a dependency is unavailable |
-| **Automated testing** | pytest / pytest-django / pytest-asyncio suites running into the hundreds of tests, with fakes for LLMs and embeddings so they run offline |
-| **DevOps** | Docker and Docker Compose (Postgres, Redis, Kafka, workers); deployments on Render, Vercel and Streamlit Community Cloud with Neon PostgreSQL |
+| Engineering Area | Skills / Technologies | Where I Used Them | What I Built or Solved |
+|---|---|---|---|
+| **Backend APIs** | DRF, FastAPI, Pydantic, OpenAPI | TravelX, FreshPlate, PolicyDesk AI | Versioned REST APIs with filtering, pagination and scoped rate limiting; FastAPI schemas that reject unknown fields; auto-generated Swagger docs |
+| **Auth & authorization** | JWT (SimpleJWT), bcrypt, RBAC, email OTP | FreshPlate, TravelX, PolicyDesk AI | Refresh-token rotation with blacklisting, role-based permissions and hashed email-OTP; identity read from the token so users can't reach data that isn't theirs |
+| **Database & transactions** | PostgreSQL, SQLAlchemy, Alembic, state machines | TravelX, FreshPlate, Voice Sales Agent | Schemas with explicit status state machines and multi-tenant keys; `select_related`/`Prefetch` and indexes to remove N+1 queries; Alembic migrations |
+| **Concurrency & idempotency** | `select_for_update`, atomic transactions, idempotency keys | TravelX | Row-level locking, request-fingerprint idempotency keys and price snapshots so a booking can't double-book or double-charge on retry |
+| **Payments & webhook security** | Razorpay, HMAC-SHA256 | TravelX | Order / verify / refund flow with webhook signatures verified by HMAC-SHA256 before any payment is trusted |
+| **Full-stack integration** | React, TypeScript, Vite, Tailwind, Leaflet | TravelX, TravelX v2, FreshPlate | React + Leaflet booking UI and a vanilla-JS client with output escaping; a TypeScript frontend typed directly from the backend's OpenAPI schema |
+| **RAG & retrieval** | pgvector, FAISS, BM25, RRF, reranking | Voice Sales Agent, Polyglot Code Reviewer, PolicyDesk AI | Hybrid vector + keyword search merged with Reciprocal Rank Fusion and a distance gate that drops weak matches, instead of trusting the top vector hit |
+| **LLM outputs & tool calling** | Pydantic, JSON mode, tool calling | Polyglot Code Reviewer, Voice Sales Agent, PolicyDesk AI | Structured outputs with a JSON-mode fallback on validation failure; tool calls the backend validates and executes, with consent gating and JWT-scoped identity |
+| **AI evaluation & benchmarking** | Precision/Recall/F1, labelled fixtures, latency metrics | Polyglot Code Reviewer, Voice Sales Agent | P/R/F1 over a labelled dataset and a retrieval benchmark (vector vs hybrid vs reranked); per-turn latency recorded and reported as p50/p95 |
+| **Automated testing** | pytest, pytest-django, pytest-asyncio | TravelX, Polyglot Code Reviewer, Voice Sales Agent | Test suites in the hundreds, with fakes for LLMs and embeddings so they run offline — regression safety before anything ships |
+| **Observability & deployment** | Docker Compose, Prometheus, Sentry, Render, Vercel, Neon | TravelX, FreshPlate, Polyglot Code Reviewer | Structured JSON logs with request IDs, Prometheus metrics and health endpoints; containerized services deployed with Neon PostgreSQL |
+| **Tool integration (MCP)** | Model Context Protocol | *Learning* | Exploring MCP for standardized LLM tool integration — a current focus, not yet shipped in a project |
 
 ---
 
 ## GitHub Activity
 
-My public repositories and contribution graph are shown above on my profile. A quick summary:
+My repositories and contribution graph are shown above on my profile. A quick summary:
 
 <p align="center">
   <a href="https://github.com/AshishChaubey2003?tab=repositories">
