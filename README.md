@@ -10,8 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashishchaubey2dec/"><img src="https://img.shields.io/badge/LinkedIn-ashishchaubey2dec-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:sashishchaubey1234@gmail.com"><img src="https://img.shields.io/badge/Email-sashishchaubey1234%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://personal-portfolio-website-one-azure.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:ashish.chaubey.dev@gmail.com"><img src="https://img.shields.io/badge/Email-ashish.chaubey.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/AshishChaubey2003?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories"></a>
 </p>
 
@@ -282,8 +281,7 @@ Technologies listed here are ones I have used in the projects above. Items marke
 | | |
 |---|---|
 | **LinkedIn** | [linkedin.com/in/ashishchaubey2dec](https://www.linkedin.com/in/ashishchaubey2dec/) |
-| **Email** | [sashishchaubey1234@gmail.com](mailto:sashishchaubey1234@gmail.com) |
-| **Portfolio** | [personal-portfolio-website-one-azure.vercel.app](https://personal-portfolio-website-one-azure.vercel.app/) |
+| **Email** | [ashish.chaubey.dev@gmail.com](mailto:ashish.chaubey.dev@gmail.com) |
 | **Live demos** | [TravelX](https://travelx-frontend-zdol.onrender.com) · [FreshPlate](https://ai-fresshplate.vercel.app) · [Polyglot Code Reviewer](https://polyglot-code-reviewer.streamlit.app/) |
 
 <p align="center"><sub>Thanks for visiting. If you're hiring for a Python backend or GenAI role, the fastest way to see how I work is the TravelX and Voice Sales Agent repositories.</sub></p>
